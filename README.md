@@ -1,7 +1,6 @@
 # Velvet Lavender 🌸🍰
 
-An eCommerce website for **flowers, cakes, and chocolates**, designed with a lavender-inspired theme.  
-Built using **PHP**, **MySQL**, **HTML/CSS**, **JavaScript**, **jQuery**, and **Bootstrap**.
+Velvet Lavender is an eCommerce web system built with PHP, MySQL, HTML/CSS, JavaScript, jQuery, and Bootstrap. It provides category-based product browsing, cart and checkout functionality, order confirmation, and cookie-based purchase history. Includes an admin dashboard for product updates with client-side validation. Designed to demonstrate practical skills in web development, session handling, database design, and UX/UI development.
 
 ---
 

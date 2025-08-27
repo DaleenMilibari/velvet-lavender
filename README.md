@@ -152,4 +152,4 @@ Visit: [http://localhost:8080/velvet\_lavender/](http://localhost:8080/velvet_la
 ## 👩‍💻 Author
 
 Developed by **Daleen Milibari**
-For educational and portfolio purposes 🌸
+For educational and portfolio purposes

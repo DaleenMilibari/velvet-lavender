@@ -1,0 +1,20 @@
+# Allow access to login, logout, and authentication scripts
+<Files "admin-login.php">
+    Require all granted
+</Files>
+<Files "admin-logout.php">
+    Require all granted
+</Files>
+<Files "authenticate-admin.php">
+    Require all granted
+</Files>
+
+# Allow all .php files if user is authenticated through PHP
+<FilesMatch "\.php$">
+    Require all granted
+</FilesMatch>
+
+# Allow static assets (CSS, JS, images)
+<FilesMatch "\.(css|js|jpg|jpeg|png|gif|ico|svg|webp|woff2|ttf|eot)$">
+    Require all granted
+</FilesMatch>

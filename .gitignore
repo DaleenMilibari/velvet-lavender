@@ -1,0 +1,23 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore config (real credentials)
+config.php
+
+# Ignore uploads / user-submitted files if any
+uploads/
+
+# Ignore preprocessor & cache files
+*.css.map
+*.scssc
+prepros-6.config
+
+# Ignore IDE/editor files
+*.swp
+.vscode/
+.idea/
+
+# Ignore OS specific files
+*.log
+*.bak
